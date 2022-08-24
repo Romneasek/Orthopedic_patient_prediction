@@ -23,7 +23,7 @@ Section V : Training with Naive Bayes<br>
 - Now , fit a Naive Bayes Classifier to the same data.
 - Train a NB model with default arguments and make a note of training and test metrics
 - What are your inferences on the relative performance between the KNN and NB based models?
-- Which of these models would you recommend and with what reasons ?
+- Which of these models would you recommend and with what reasons ?<br>
 Section VI : Wraping it up ! (This is optional but good for... like spinach...)<br>
 - Which of these models performed better ?
 - Test these two models on other datasets as well !
